@@ -7,3 +7,6 @@ def remove_item(items, item):
 
 def show_items(items):
     print(items)
+    
+def count_items(items):
+    return len(items)
