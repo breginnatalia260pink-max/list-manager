@@ -10,3 +10,6 @@ def show_items(items):
     
 def count_items(items):
     return len(items)
+
+def clear_items(items):
+    items.clear()
