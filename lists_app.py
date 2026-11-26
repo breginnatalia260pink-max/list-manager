@@ -12,4 +12,8 @@ def count_items(items):
     return len(items)
 
 def clear_items(items):
-    items.clear()
+    items.clear()S
+
+sample = ["a", "b"]
+add_item(sample, "c")
+show_items(sample)
