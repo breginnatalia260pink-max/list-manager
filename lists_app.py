@@ -17,3 +17,4 @@ def clear_items(items):
 sample = ["a", "b"]
 add_item(sample, "c")
 show_items(sample)
+# Hello
